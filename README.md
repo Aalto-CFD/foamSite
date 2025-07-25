@@ -1,3 +1,5 @@
+![OpenFOAM v13](https://img.shields.io/badge/OpenFOAM-13-brightgreen)
+
 # foamSite
 Aalto OpenFOAM `$WM_PROJECT_SITE`.
 
